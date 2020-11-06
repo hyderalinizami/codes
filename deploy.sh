@@ -1,3 +1,2 @@
 #!/bin/sh
-#
-for i in `cat ips.txt`
+# this is a deployment file
